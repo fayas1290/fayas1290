@@ -17,7 +17,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
  <br />
 
 <h2>  📚 Server Support Role Case Studies 📚  :</h2>
-
+ - [iLO 5 Password Recovery](https://github.com/fayas1290/iLO-5-Password-Recovery/edit/main/README.md#ilo-5-password-recovery)
 
 
 <div>
