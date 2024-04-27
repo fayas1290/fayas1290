@@ -29,5 +29,5 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
  <br />
 
 <h2> 📖 Learning 📖 </h2>
-+Learning Git https://github.com/fayas1290/Learning-Git
++Git https://github.com/fayas1290/Learning-Git
 
