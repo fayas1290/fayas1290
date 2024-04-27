@@ -24,3 +24,8 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 <h2> 🎤 Presentation 🎤</h2>
 + Remote Direct Memory Access(RDMA) and Why It Matters. https://github.com/fayas1290/RDMA-Presentation-
+
+ <br />
+ <br />
+
+<h2> 📖 Learning 📖 </h2>
