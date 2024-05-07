@@ -41,4 +41,4 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <h2>📝 Technical Documentation</h2>
 
 - [Installing VMware ESXI On An HPE Proliant Server And Installing Firmware In VMware ESXI](https://github.com/fayas1290/ESXI-Lab)
-
+- [Expanding An Array, Extending and Migrating A Logical Drive Using HPE Smart Storage Administrator (SSA)](https://github.com/fayas1290/Expanding-Extending-Migrating)
