@@ -16,18 +16,29 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
  <br />
  <br />
 
-<h2>  📚 Server Support Role Case Studies 📚 </h2>
- + iLO 5 Password Recovery https://github.com/fayas1290/iLO-5-Password-Recovery/edit/main/README.md#ilo-5-password-recovery
+<h2>  📚 Server Support Role Case Studies  </h2>
+
+- [iLO 5 Password Recovery](https://github.com/fayas1290/iLO-5-Password-Recovery/edit/main/README.md#ilo-5-password-recovery)
 
  <br />
  <br />
 
-<h2> 🎤 Presentation 🎤</h2>
-+ Remote Direct Memory Access(RDMA) and Why It Matters. https://github.com/fayas1290/RDMA-Presentation-
+<h2> 🎤 Presentation </h2>
+
+- [Remote Direct Memory Access(RDMA) and Why It Matters.](https://github.com/fayas1290/RDMA-Presentation-)
 
  <br />
  <br />
 
-<h2> 📖 Learning 📖 </h2>
-+Git https://github.com/fayas1290/Learning-Git <br>
-+AZ 900 https://github.com/fayas1290/Learning-AZ900
+<h2> 📖 Learning </h2>
+
+- [Git](https://github.com/fayas1290/Learning-Git) <br>
+- [AZ900](https://github.com/fayas1290/Learning-AZ900)
+
+ <br />
+ <br />
+ 
+<h2>📝 Technical Documentation</h2>
+
+- [Installing VMware ESXI On An HPE Proliant Server And Installing Firmware In VMware ESXI](https://github.com/fayas1290/ESXI-Lab)
+
