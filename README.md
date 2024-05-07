@@ -5,8 +5,7 @@
 
  Thank you for visiting my GitHub! This repository is meant to showcase my IT journey
 
-I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
-
+I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities.
 
 
 ---
